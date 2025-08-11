@@ -78,11 +78,13 @@ const lonwaboKwitshana = {
 
 <div align="center">
 
-| Project           | Overview                                                                            | Technologies                        |
-| ----------------- | ----------------------------------------------------------------------------------- | ----------------------------------- |
-| Traffic Guardian  | AWS-based system for real-time traffic monitoring and AI-driven incident detection. | React, AWS, Real-time APIs          |
+| Project | Overview | Link | Technologies |
+|---------|----------|------|--------------|
+| <img src="TrafficGuardianLogo1_LightFinal.svg" alt="Traffic Guardian Logo" width="250"/> | AWS-based system for real-time traffic monitoring and AI-driven incident detection. | [GitHub Repo](https://github.com/COS301-SE-2025/Traffic-Guardian) | React, AWS, Real-time APIs |
 
 </div>
+
+
 
 ---
 
