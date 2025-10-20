@@ -57,6 +57,16 @@ const lonwaboKwitshana = {
 </div>
 
 ---
+## Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lonwabo-kwitshana)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/7onwabo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lonwabo.kwitshana@gmail.com)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1BItLJ1DOykw1S086aar-MrcTT9mGM71q/view?usp=sharing)
+
+</div>
 
 ## GitHub Metrics
 
