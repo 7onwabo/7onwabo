@@ -6,18 +6,72 @@
 
 ## Profile Overview
 
-```javascript
-const lonwaboKwitshana = {
-    location: "Pretoria, South Africa",
-    education: "BSc Computer Science, University of Pretoria",
-    focus: "Full-Stack Development with an emphasis on Frontend Excellence",
-    currentProject: "Traffic Guardian – AWS-Powered Traffic Monitoring System",
-    interests: ["Software Engineering", "Cloud Computing", "Problem Solving"],
-    motto: "iterate violently"
-};
-```
+<table align="center">
+  <tr>
+    <td align="left" style="vertical-align: top; padding-right: 30px;">
+      <b>Location:</b> Pretoria, South Africa<br>
+      <b>Education:</b> BSc Computer Science, University of Pretoria<br>
+      <b>Focus:</b> Full-Stack Development with an emphasis on Frontend Excellence<br>
+      <b>Current Project:</b> Traffic Guardian – AWS-Powered Traffic Monitoring System<br>
+      <b>Interests:</b> Software Engineering, Cloud Computing, Problem Solving<br>
+      <b>Motto:</b> <i>iterate violently</i>
+    </td>
+    <td align="center" style="vertical-align: top;">
+      <pre style="font-size: 8px; line-height: 7px; color: #FF4081;">
+                .                                                     
+                     .    .           .                          .    
+                                          ..            .             
+   ...                            .    .       .   .  .               
+                             .            .                           
+              .         .      .-=+**#*+=-:.                          
+                         -#%@@@@@@@@@@@@@@@@@@@%*:                  ..
+         .           -%@@@@@*-:.       .   .:-+%@@@@#.       .        
+      . ..        +@@@@*-:  .                    .-%@@@#+ .           
+               .*@@@*:    .                     .     :@@@*       ..  
+    .        %@*%-          ..     .                .    *@@:         
+.          .@@@                ......:-::..           .... #=         
+           @@=             :=====:--:-=++::----..  ..::.:.  +@:       
+          #@:.:::.      .-::=++-..:+--+++----:*+:..::-:-=   @@@#    . 
+         @@* --:-===:.:=--:...-+:.:-:--==-=+=-*=.:-::--=+%@@@@@@@ .   
+        @@@% :%+====:---:......::::::::--==+=----===-==:+@@@%@@@@@    
+     . @@@@@@@@%*=-::-=-:.-=++*++*+::....:::-@%=-:--=--:-@@@%#%@@@*   
+      @@@@@@%@@%=::==-....:--:-=+##=--::=+=---:.:-:-=++=:*@@@+%+#@@   
+     .@@@@@@%@@@-==-::::--=*#*-:-:-.:+*#%@@@@@=::.::.:**-:@@@%%%*%@-  
+     *@@@%@@%@@@---::::---==...::-:...-@@%%@@+.:-:=:::-=--@@@%@%%@@=  
+  .  #@@@#%@@@@@=-:....-==-:....-+-:...-%@@@+--:-=--.::-=-#@@@@@@@@:  
+ .   -@@@#%@%@@@#==::---=--:::--==+==-=+=#@#====-::::..=*-%@@@@@#=  . 
+      @@@%@@@@@@@:::=+-:::----:--:---=-=*%%%%#-::....:=+=-@@@@@@% .   
+      .%+@@@@@@@@---++---::::::::::-##:@@@@@@@+@@%-::::.:.@@@@@#      
+         =+@@@@@@*-=+=+===-::+%@@@@%@@%@@@@%%@@@@=::::-:.   -.        
+          .*@@@@@%:=-=++*+==-+#@@@@@@#*#@@%+*@@@-::-=--.         .    
+ .      .     .-   :-==+++++==-=*@@@@@%+%@@*=+%-.:=++-.               
+                    --::--=-===--=+%@%%*%@@@%#=.:=+=.    .      .     
+ .                  ......::::-+----+%#+*%%%#.:.-:.                   
+ .        .        .:::...::::---:-::=@@*+#%%+-=-.        .          .
+                   :+=-::......::.::-::-+%@#-:-:.             .       
+               . . :=++---=::.........:---=+=-::.           .         
+        .          .-======-:::...:....---=-::--:.                .   
+          .  ..    .:-=+*=----:..--:..::=--====:.. .                  
+                  ...::-----=--==*--:-===+===-:...     .    .      .  
+      .    .        ....::-====**+=--==-==-:.....                     
+        .           .......::::--:::.::::.....=*-              .      
+     .   ..          ..............:.::......=##=                     
+ .     .            .......... .. .........:*@%#+..        .     .    
+           .          ....:-+*=-:.........-@@@#+-..         .         
+    .      .  .  .     ...--+#%@@#-:.......-**-:.                     
+        .              .::.:-=+*#=:.....      .      . .    .    .    
+           .           :-----::-=-:...-.       . .   .                
+                       .--=-:...::---==.   . .              .        .
+.                        ..      ..:-:.       .             .         
+                .       .  .                               ..         
+            .             .   . .                                     
+             .            .                  .  .                 .   
+.                    .          ..    .      . .   .                  
+      </pre>
+    </td>
+  </tr>
+</table>
 
----
 
 ## Technical Proficiencies
 
