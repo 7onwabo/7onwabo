@@ -91,7 +91,7 @@ const lonwaboKwitshana = {
 ## Current Focus Areas
 
 * Cloud Architecture and DevOps implementation
-* Expanding contributions to Open Source Initiatives
+* 3D modeling
 * Advancing expertise in scalable full-stack solutions
 * Completing final-year studies in Computer Science
 
