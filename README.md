@@ -173,17 +173,6 @@ Strong Problem-Solving & Software Architecture Skills
 
 ---
 
-## Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1744?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lonwabo-kwitshana)
-[![GitHub](https://img.shields.io/badge/GitHub-E91E63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7onwabo)
-[![Email](https://img.shields.io/badge/Email-FF4081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lonwabo.kwitshana@gmail.com)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=7onwabo&style=for-the-badge&color=FF1744" />
