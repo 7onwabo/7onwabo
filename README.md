@@ -14,6 +14,7 @@
       <b>Focus:</b> Full-Stack Development with an emphasis on Frontend Excellence<br>
       <b>Current Project:</b> Traffic Guardian – AWS-Powered Traffic Monitoring System<br>
       <b>Interests:</b> Software Engineering, Cloud Computing, Problem Solving<br>
+      <b>Hobbies:</b> Music, Fashion, Film, Art<br>
       <b>Motto:</b> <i>iterate violently</i>
     </td>
     <td align="center" style="vertical-align: top;">
