@@ -5,12 +5,12 @@
 ---
 
 <p align="center">
-  <img src="profileOverview.PNG" alt="Profile Overview" width="450" />
+  <img src="profileOverview.PNG" alt="Profile Overview" width="300" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="left" style="vertical-align: top; padding-right: 30px;">
+    <td align="left">
       <b>Location:</b> Pretoria, South Africa<br>
       <b>Education:</b> BSc Computer Science, University of Pretoria<br>
       <b>Focus:</b> Full-Stack Development with an emphasis on Frontend Excellence<br>
@@ -19,65 +19,11 @@
       <b>Hobbies:</b> Music, Fashion, Film, Art<br>
       <b>Motto:</b> <i>iterate violently</i>
     </td>
-    <td align="center" style="vertical-align: top;">
-      <pre style="font-size: 8px; line-height: 7px; color: #000000;">
-                .                                                     
-                     .    .           .                          .    
-                                          ..            .             
-   ...                            .    .       .   .  .               
-                             .            .                           
-              .         .      .-=+**#*+=-:.                          
-                         -#%@@@@@@@@@@@@@@@@@@@%*:                  ..
-         .           -%@@@@@*-:.       .   .:-+%@@@@#.       .        
-      . ..        +@@@@*-:  .                    .-%@@@#+ .           
-               .*@@@*:    .                     .     :@@@*       ..  
-    .        %@*%-          ..     .                .    *@@:         
-.          .@@@                ......:-::..           .... #=         
-           @@=             :=====:--:-=++::----..  ..::.:.  +@:       
-          #@:.:::.      .-::=++-..:+--+++----:*+:..::-:-=   @@@#    . 
-         @@* --:-===:.:=--:...-+:.:-:--==-=+=-*=.:-::--=+%@@@@@@@ .   
-        @@@% :%+====:---:......::::::::--==+=----===-==:+@@@%@@@@@    
-     . @@@@@@@@%*=-::-=-:.-=++*++*+::....:::-@%=-:--=--:-@@@%#%@@@*   
-      @@@@@@%@@%=::==-....:--:-=+##=--::=+=---:.:-:-=++=:*@@@+%+#@@   
-     .@@@@@@%@@@-==-::::--=*#*-:-:-.:+*#%@@@@@=::.::.:**-:@@@%%%*%@-  
-     *@@@%@@%@@@---::::---==...::-:...-@@%%@@+.:-:=:::-=--@@@%@%%@@=  
-  .  #@@@#%@@@@@=-:....-==-:....-+-:...-%@@@+--:-=--.::-=-#@@@@@@@@:  
- .   -@@@#%@%@@@#==::---=--:::--==+==-=+=#@#====-::::..=*-%@@@@@#=  . 
-      @@@%@@@@@@@:::=+-:::----:--:---=-=*%%%%#-::....:=+=-@@@@@@% .   
-      .%+@@@@@@@@---++---::::::::::-##:@@@@@@@+@@%-::::.:.@@@@@#      
-         =+@@@@@@*-=+=+===-::+%@@@@%@@%@@@@%%@@@@=::::-:.   -.        
-          .*@@@@@%:=-=++*+==-+#@@@@@@#*#@@%+*@@@-::-=--.         .    
- .      .     .-   :-==+++++==-=*@@@@@%+%@@*=+%-.:=++-.               
-                    --::--=-===--=+%@%%*%@@@%#=.:=+=.    .      .     
- .                  ......::::-+----+%#+*%%%#.:.-:.                   
- .        .        .:::...::::---:-::=@@*+#%%+-=-.        .          .
-                   :+=-::......::.::-::-+%@#-:-:.             .       
-               . . :=++---=::.........:---=+=-::.           .         
-        .          .-======-:::...:....---=-::--:.                .   
-          .  ..    .:-=+*=----:..--:..::=--====:.. .                  
-                  ...::-----=--==*--:-===+===-:...     .    .      .  
-      .    .        ....::-====**+=--==-==-:.....                     
-        .           .......::::--:::.::::.....=*-              .      
-     .   ..          ..............:.::......=##=                     
- .     .            .......... .. .........:*@%#+..        .     .    
-           .          ....:-+*=-:.........-@@@#+-..         .         
-    .      .  .  .     ...--+#%@@#-:.......-**-:.                     
-        .              .::.:-=+*#=:.....      .      . .    .    .    
-           .           :-----::-=-:...-.       . .   .                
-                       .--=-:...::---==.   . .              .        .
-.                        ..      ..:-:.       .             .         
-                .       .  .                               ..         
-            .             .   . .                                     
-             .            .                  .  .                 .   
-.                    .          ..    .      . .   .                  
-      </pre>
-    </td>
   </tr>
 </table>
 
-
 <p align="center">
-  <img src="techstack.PNG" alt="Technical Proficiencies" width="500" />
+  <img src="techstack.PNG" alt="Technical Proficiencies" width="350" />
 </p>
 
 <div align="center">
@@ -115,7 +61,7 @@
 ---
 
 <p align="center">
-  <img src="connectwithme.PNG" alt="Connect with Me" width="400" />
+  <img src="connectwithme.PNG" alt="Connect with Me" width="280" />
 </p>
 
 <div align="center">
@@ -128,7 +74,7 @@
 </div>
 
 <p align="center">
-  <img src="githubmetrics.PNG" alt="GitHub Metrics" width="300" />
+  <img src="githubmetrics.PNG" alt="GitHub Metrics" width="250" />
 </p>
 
 <div align="center">
@@ -143,7 +89,7 @@
 ---
 
 <p align="center">
-  <img src="featuredprojects.PNG" alt="Featured Projects" width="450" />
+  <img src="featuredprojects.PNG" alt="Featured Projects" width="300" />
 </p>
 
 <div align="center">
@@ -157,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="currentfocusareas.PNG" alt="Current Focus Areas" width="480" />
+  <img src="currentfocusareas.PNG" alt="Current Focus Areas" width="320" />
 </p>
 
 * Cloud Architecture and DevOps implementation
@@ -168,19 +114,17 @@
 ---
 
 <p align="center">
-  <img src="notableAchievements.PNG" alt="Notable Achievements" width="500" />
+  <img src="notableAchievements.PNG" alt="Notable Achievements" width="330" />
 </p>
 
-
-Academic Distinctions: COS214, COS221, COS284, COS226, IMY310, STK110, STK120
-Academic Half Colours (2021)
+Academic Distinctions: COS214, COS221, COS284, COS226, IMY310, STK110, STK120  
+Academic Half Colours (2021)  
 Strong Problem-Solving & Software Architecture Skills
-
 
 ---
 
 <p align="center">
-  <img src="activityoverview.PNG" alt="Activity Overview" width="420" />
+  <img src="activityoverview.PNG" alt="Activity Overview" width="280" />
 </p>
 
 <div align="center">
@@ -192,6 +136,3 @@ Strong Problem-Solving & Software Architecture Skills
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=7onwabo&style=for-the-badge&color=A9A9A9" />
 </div>
-
-
----
